@@ -1,0 +1,44 @@
+.container {
+  width: 50%;
+  height: auto;
+  display: grid;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.container > div {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: grid;
+  justify-content: center;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  background-color: black;
+  color: #fff;
+  padding: 20px;
+
+  text-align: center;
+}
+
+td {
+  padding: 10px 30px;
+}
+
+form {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.list-desc {
+  width: 70%;
+}
+
+tr:nth-child(odd) {
+  background-color: #555;
+  color: #fff;
+}
