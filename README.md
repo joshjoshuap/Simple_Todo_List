@@ -1,4 +1,4 @@
-# :desktop_computer: Simple Todo List (PHP)
+# :desktop_computer: Simple Todo List
 
 ### :hammer_and_wrench: Language, Tools, Technologies Used:
 - HTML
